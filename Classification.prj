@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration build-checksum="1191065366" file="D:\Google Drive\Research\Scan-to-BIM repository\Classification\Classification.prj" location="D:\Google Drive\Research\Scan-to-BIM repository\Classification" name="Classification" preferred-package-location="D:\Google Drive\Research\Scan-to-BIM repository\Classification\Classification\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.library" target-name="Library Compiler">
+  <configuration build-checksum="4123335027" file="D:\Google Drive\Research\Scan-to-BIM repository\Classification\Classification.prj" location="D:\Google Drive\Research\Scan-to-BIM repository\Classification" name="Classification" preferred-package-location="D:\Google Drive\Research\Scan-to-BIM repository\Classification\bin\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.library" target-name="Library Compiler">
     <param.appname>Classification</param.appname>
     <param.icon />
     <param.icons />
